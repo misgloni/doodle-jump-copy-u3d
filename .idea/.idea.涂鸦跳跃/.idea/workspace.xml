@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de97e24c-917c-42d1-993a-9dcd4b7a8b1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD0D711E-88AD-4A3E-9BFE-388F4C259D28/82/5d157ed1/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD0D711E-88AD-4A3E-9BFE-388F4C259D28/79/ebb652e0/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD0D711E-88AD-4A3E-9BFE-388F4C259D28/44/c134c282/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestoryScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../LaoWei/LaoweiUnity/Assets/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD0D711E-88AD-4A3E-9BFE-388F4C259D28/26/442b8f11/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RelativeScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4C4C583C-4FE2-4EF6-9B87-48CA655ED7A9/f4/98bab3fc/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD0D711E-88AD-4A3E-9BFE-388F4C259D28/4a/61616a97/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD0D711E-88AD-4A3E-9BFE-388F4C259D28/db/a8a4d6bd/Camera.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/DropItemScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/PlayerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/BulletScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Logic/TileProducter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Logic/ITileProducter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Logic/TileInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/Logic/DefaultTileProducter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sources/Scripts/TileProductScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestoryScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DropItemScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TileProductScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Logic/DefaultTileProducter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RelativeScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/JetAnimationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimationResetScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wuYbm48XFjmQvSxUuzjypFTTG8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de97e24c-917c-42d1-993a-9dcd4b7a8b1f" name="Default Changelist" comment="" />
+      <created>1629310017222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629310017222</updated>
+      <workItem from="1629310021771" duration="1762000" />
+      <workItem from="1629311812673" duration="22443000" />
+      <workItem from="1629418757877" duration="9764000" />
+      <workItem from="1629450447612" duration="11718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1206" y="376" key="RiderGenerateDialog" timestamp="1629443941446">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1206" y="376" key="RiderGenerateDialog/0.0.2560.1400/2560.-228.1080.1880@0.0.2560.1400" timestamp="1629443941446" />
+    <state x="1086" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1629326297972">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.-228.1080.1880@0.0.2560.1400" timestamp="1629326297972" />
+  </component>
+</project>
